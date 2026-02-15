@@ -5,17 +5,8 @@ This repository contains all materials for the manuscript:
 
 **"Computational Repurposing Screen Identifies Oral Drug Candidates for GLP-1 Receptor Modulation"**
 
-Submitted to: *Royal Society Open Science*
 
 ## 📁 Repository Structure
-
-```
-Manuscript Files/
-├── README.md                                    # This file
-├── SUBMISSION_CHECKLIST_RSOS.md                 # Pre-submission checklist
-├── REVISION_SUMMARY_AND_IMPROVEMENTS.md         # Manuscript transformation analysis
-├── GLP1R_REVISED_PERFECT_v2.md                 # Main manuscript (Markdown)
-├── GLP1R_REVISED_PERFECT_v2_SUBMISSION_READY.docx  # Main manuscript (Word) - submission-ready
 │
 ├── Figures/                                     # All 8 main figures
 │   ├── Figure1_Pocket_Equivalence.png
@@ -26,7 +17,7 @@ Manuscript Files/
 │   ├── Figure6_Binding_Mode_Analysis.png
 │   ├── Figure7_Structure_Activity.png
 │   ├── Figure8_ChEMBL_Validation.png
-│   └── *.tif (TIFF versions for submission)
+│   
 │
 ├── Supplementary_Tables/                        # All 12 supplementary tables
 │   └── Supplementary_Tables_S1-S12.xlsx         # Excel workbook with 12 sheets
@@ -40,15 +31,14 @@ Manuscript Files/
 │   ├── figure6_binding_mode_analysis.py
 │   ├── figure7_structure_activity.py
 │   ├── figure8_chembl_validation.py
-│   ├── generate_supplementary_tables.py         # Creates all Excel tables
-│   └── requirements.txt                         # Python dependencies
+│  
 │
 ├── PyMOL_Scripts/                               # 3D structural visualization
 │   ├── figure6_overlays.pml                     # Binding mode overlays
 │   └── supplementary_pocket_alignment.pml       # Pocket conservation analysis
 │
-└── Data/                                         # Placeholder for raw data
-    ├── README_data.md                           # Data availability statement
+└── Data/                                         
+    ├── README_data.md                       
     └── (PDB structures, docking poses, etc. - deposited on Zenodo)
 ```
 
@@ -162,7 +152,7 @@ pymol supplementary_pocket_alignment.pml # Pocket conservation
 1. **Structure Preparation:**
    - 4 GLP-1R cryo-EM structures (PDB: 6VCB, 6XOX, 7E14, 7S15)
    - Schrödinger Protein Preparation Wizard (pH 7.4, PROPKA)
-   - Grid generation centered on orforglipron binding pocket
+   - Grid generation centred on orforglipron binding pocket
 
 2. **Virtual Screening:**
    - Library: 2,118 approved drugs (e-Drug3D database)
@@ -171,7 +161,7 @@ pymol supplementary_pocket_alignment.pml # Pocket conservation
 
 3. **MM-GBSA Rescoring:**
    - Prime MM-GBSA (VSGB solvation model)
-   - Z-score normalization for cross-structure consensus
+   - Z-score normalisation for cross-structure consensus
    - ΔΔG framing relative to reference ligands
 
 4. **ADME Filtering:**
@@ -248,7 +238,7 @@ All analysis code is available at:
 - Email: olaniyiolaniru@gmail.com
 - ORCID: [TO BE ADDED]
 
-**Jesulude Peace Dorcas**
+**Peace Dorcas Jesulude**
 - Affiliation: Lead City University, Ibadan, Nigeria
 - ORCID: [TO BE ADDED]
 
@@ -292,7 +282,7 @@ For questions about the computational methods, code, or data:
   - All 8 figures generated (300+ dpi TIFF/PNG)
   - All 12 supplementary tables (Excel workbook)
   - Complete Python analysis scripts
-  - PyMOL visualization scripts
+  - PyMOL visualisation scripts
   - README and documentation
 
 ---
