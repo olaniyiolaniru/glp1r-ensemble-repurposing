@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it."
+title: "GLP-1R ensemble repurposing screen (data and scripts)"
+authors:
+  - family-names: Olaniru
+    given-names: Olaniyi Victor
+repository-code: "https://github.com/olaniyiolaniru/glp1r-ensemble-repurposing"
+version: "v1.0.0"
+date-released: "2026-02-15"
+license: "MIT"
