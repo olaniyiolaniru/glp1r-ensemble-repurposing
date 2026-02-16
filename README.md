@@ -208,7 +208,10 @@ All raw data, docking grids, and top-ranked poses are deposited at:
 
 ### GitHub Repository
 All analysis code is available at:
-**URL: [TO BE CREATED]**
+**URL: Repo: https://github.com/olaniyiolaniru/glp1r-ensemble-repurposing
+Release (v1.0.0): https://github.com/olaniyiolaniru/glp1r-ensemble-repurposing/releases/tag/v1.0.0
+Supplementary ZIP (direct download): https://github.com/olaniyiolaniru/glp1r-ensemble-repurposing/releases/download/v1.0.0/Supplementary_Data.zip
+**
 
 **License:** MIT
 
@@ -236,7 +239,7 @@ All analysis code is available at:
 **Olaniyi Victor Olaniru** (Corresponding Author)
 - Affiliation: Lead City University, Ibadan, Nigeria
 - Email: olaniyiolaniru@gmail.com
-- ORCID: [TO BE ADDED]
+- ORCID: https://orcid.org/0009-0008-9853-6335
 
 **Peace Dorcas Jesulude**
 - Affiliation: Lead City University, Ibadan, Nigeria
@@ -244,7 +247,8 @@ All analysis code is available at:
 
 **Clement Odunayo Ajiboye**
 - Affiliation: University of Ibadan, Ibadan, Nigeria
-- ORCID: [TO BE ADDED]
+- Email: co.ajiboye@ui.edu.ng
+- ORCID: https://orcid.org/0000-0002-6205-8828
 
 ---
 
@@ -292,4 +296,4 @@ For questions about the computational methods, code, or data:
 
 ## Pre-GitHub supplementary data archive
 
-A submission-ready, non-proprietary data package is provided as `Supplementary_Data_PreGitHub_v4_RSOS.zip` (prepared receptor PDBs, ligand library SDF, docked poses SDF/PDB, optional Glide grid archives, and PyMOL scripts).
+A submission-ready, non-proprietary data package is provided as `Supplementary_Data.zip` (prepared receptor PDBs, ligand library SDF, docked poses SDF/PDB, optional Glide grid archives, and PyMOL scripts).
