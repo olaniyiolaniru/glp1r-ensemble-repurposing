@@ -1,11 +1,18 @@
 cff-version: 1.2.0
+message: "If you use this dataset/code, please cite it using this metadata."
 type: dataset
-message: "If you use this repository, please cite it."
 title: "GLP-1R ensemble repurposing screen (data and scripts)"
+version: 1.0.2
+date-released: 2026-02-17
 authors:
   - family-names: Olaniru
     given-names: Olaniyi Victor
+    orcid: "https://orcid.org/0009-0008-9853-6335"
 repository-code: "https://github.com/olaniyiolaniru/glp1r-ensemble-repurposing"
-version: "v1.0.1"
-date-released: "2026-02-16"
-license: "CC-BY-4.0"
+url: "https://github.com/olaniyiolaniru/glp1r-ensemble-repurposing"
+license: "MIT"
+keywords:
+  - GLP-1R
+  - ensemble docking
+  - drug repurposing
+  - virtual screening
