@@ -6,7 +6,6 @@ authors:
   - family-names: Olaniru
     given-names: Olaniyi Victor
 repository-code: "https://github.com/olaniyiolaniru/glp1r-ensemble-repurposing"
-version: "v1.0.0"
-date-released: "2026-02-15"
-license: "MIT"
-
+version: "v1.0.1"
+date-released: "2026-02-16"
+license: "CC-BY-4.0"
