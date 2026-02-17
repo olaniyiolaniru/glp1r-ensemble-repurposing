@@ -243,7 +243,8 @@ Supplementary ZIP (direct download): https://github.com/olaniyiolaniru/glp1r-ens
 
 **Peace Dorcas Jesulude**
 - Affiliation: Lead City University, Ibadan, Nigeria
-- ORCID: [TO BE ADDED]
+- Email: peacejesulude@gmail.com
+- ORCID: https://orcid.org/0009-0005-9646-3564
 
 **Clement Odunayo Ajiboye**
 - Affiliation: University of Ibadan, Ibadan, Nigeria
