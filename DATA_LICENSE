@@ -1,5 +1,15 @@
-CC BY 4.0 licensing
-It applies to:
-Supplementary_Data.zip
-Supplementary_Tables_S1-S12.xlsx
-SDF/PDB exports (and any other data outputs)
+DATA LICENSE (CC BY 4.0)
+
+Unless otherwise stated, the research data and supplementary materials in this repository are licensed under the
+Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+License summary: https://creativecommons.org/licenses/by/4.0/
+Legal code:       https://creativecommons.org/licenses/by/4.0/legalcode
+
+This CC BY 4.0 license applies to (at minimum):
+- Supplementary_Data.zip (release asset)
+- Supplementary_Tables_S1-S12.xlsx
+- Any exported structure/data files (e.g., SDF, PDB) and derived non-proprietary outputs included in this repository or release assets
+
+Attribution requirement:
+If you reuse these materials, you must give appropriate credit, provide a link to the license, and indicate if changes were made.
