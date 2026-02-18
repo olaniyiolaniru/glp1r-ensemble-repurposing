@@ -183,7 +183,7 @@ pymol supplementary_pocket_alignment.pml # Pocket conservation
 ```bibtex
 @article{Olaniru2026GLP1R,
   title={Computational Repurposing Screen Identifies Oral Drug Candidates for GLP-1 Receptor Modulation},
-  author={Olaniru, Olaniyi Victor and Dorcas, Jesulude Peace and Ajiboye, Clement Odunayo},
+  author={Olaniru, Olaniyi Victor and Jesulude, Peace Dorcas and Ajiboye, Clement Odunayo},
   journal={Royal Society Open Science},
   year={2026},
   note={Manuscript in review}
@@ -196,7 +196,7 @@ pymol supplementary_pocket_alignment.pml # Pocket conservation
 
 ### Zenodo Repository
 All raw data, docking grids, and top-ranked poses are deposited at:
-**DOI:** (assigned by the journal upon publication)
+**DOI:** Pending (Zenodo will mint a DOI when archiving this GitHub release)
 
 **Contents:**
 - Glide docking grids (4 structures, .zip)
@@ -209,7 +209,7 @@ All raw data, docking grids, and top-ranked poses are deposited at:
 ### GitHub Repository
 All analysis code is available at:
 **URL: Repo: https://github.com/olaniyiolaniru/glp1r-ensemble-repurposing
-Release (v1.0.0): https://github.com/olaniyiolaniru/glp1r-ensemble-repurposing/releases/tag/v1.0.0
+Release (v1.0.3): https://github.com/olaniyiolaniru/glp1r-ensemble-repurposing/releases/tag/v1.0.3
 Supplementary ZIP (direct download): https://github.com/olaniyiolaniru/glp1r-ensemble-repurposing/releases/download/v1.0.0/Supplementary_Data.zip
 **
 
