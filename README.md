@@ -196,7 +196,10 @@ pymol supplementary_pocket_alignment.pml # Pocket conservation
 
 ### Zenodo Repository
 All raw data, docking grids, and top-ranked poses are deposited at:
-**DOI:** Pending (Zenodo will mint a DOI when archiving this GitHub release)
+
+Software (code snapshot): 10.5281/zenodo.18682261
+Dataset (Supplementary_Data.zip): 10.5281/zenodo.18682381
+
 
 **Contents:**
 - Glide docking grids (4 structures, .zip)
