@@ -10,8 +10,9 @@ This folder contains raw computational data supporting the manuscript:
 Due to file size limitations, all raw data files are deposited externally:
 
 ### Zenodo Repository
-**DOI:** Pending (Zenodo will mint a DOI when archiving GitHub release v1.0.2)
-**Record page:** Pending (link will be added after publication on Zenodo)
+
+Software (code snapshot): 10.5281/zenodo.18682261
+Dataset (Supplementary_Data.zip): 10.5281/zenodo.18682381
 
 ---
 
