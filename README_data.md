@@ -1,7 +1,7 @@
 # Data Availability Statement
 
 ## Overview
-This folder contains placeholders for raw computational data supporting the manuscript:
+This folder contains raw computational data supporting the manuscript:
 
 **"Computational Repurposing Screen Identifies Oral Drug Candidates for GLP-1 Receptor Modulation"**
 
@@ -10,9 +10,8 @@ This folder contains placeholders for raw computational data supporting the manu
 Due to file size limitations, all raw data files are deposited externally:
 
 ### Zenodo Repository
-**DOI:** (assigned by the journal upon publication) [TO BE ASSIGNED UPON PUBLICATION]
-
-**Direct Access:** https://zenodo.org/record/XXXXXXX
+**DOI:** Pending (Zenodo will mint a DOI when archiving GitHub release v1.0.2)
+**Record page:** Pending (link will be added after publication on Zenodo)
 
 ---
 
