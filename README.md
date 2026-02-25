@@ -156,7 +156,7 @@ pymol supplementary_pocket_alignment.pml # Pocket conservation
 
 2. **Virtual Screening:**
    - Library: 2,118 approved drugs (e-Drug3D database)
-   - Glide XP docking (Schrödinger Suite 2023-4)
+   - Glide XP docking (Schrödinger Suite 2021-2)
    - Top 50 poses per structure advanced to rescoring
 
 3. **MM-GBSA Rescoring:**
@@ -223,7 +223,7 @@ Supplementary ZIP (direct download): https://github.com/olaniyiolaniru/glp1r-ens
 ## 🛠️ Software Requirements
 
 ### Computational Chemistry
-- **Schrödinger Suite 2023-4** (commercial license required)
+- **Schrödinger Suite 2021-2** (commercial license required)
   - Maestro (structure preparation)
   - Glide XP (docking)
   - Prime MM-GBSA (rescoring)
