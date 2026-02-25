@@ -197,7 +197,7 @@ pymol supplementary_pocket_alignment.pml # Pocket conservation
 ### Zenodo Repository
 All raw data, docking grids, and top-ranked poses are deposited at:
 
-Software (code snapshot): 10.5281/zenodo.18682261
+Software (code snapshot): 10.5281/zenodo.18771750
 Dataset (Supplementary_Data.zip): 10.5281/zenodo.18682381
 
 
@@ -212,7 +212,7 @@ Dataset (Supplementary_Data.zip): 10.5281/zenodo.18682381
 ### GitHub Repository
 All analysis code is available at:
 **URL: Repo: https://github.com/olaniyiolaniru/glp1r-ensemble-repurposing
-Release (v1.0.3): https://github.com/olaniyiolaniru/glp1r-ensemble-repurposing/releases/tag/v1.0.3
+Release (v1.0.5): https://github.com/olaniyiolaniru/glp1r-ensemble-repurposing/releases/tag/v1.0.5
 Supplementary ZIP (direct download): https://github.com/olaniyiolaniru/glp1r-ensemble-repurposing/releases/download/v1.0.0/Supplementary_Data.zip
 **
 
