@@ -184,7 +184,7 @@ pymol supplementary_pocket_alignment.pml # Pocket conservation
 @article{Olaniru2026GLP1R,
   title={Computational Repurposing Screen Identifies Oral Drug Candidates for GLP-1 Receptor Modulation},
   author={Olaniru, Olaniyi Victor and Jesulude, Peace Dorcas and Ajiboye, Clement Odunayo},
-  journal={Royal Society Open Science},
+  journal={},
   year={2026},
   note={Manuscript in review}
 }
@@ -280,7 +280,6 @@ For questions about the computational methods, code, or data:
 - **RCSB Protein Data Bank** for GLP-1R structural data
 - **ChEMBL** (EMBL-EBI) for experimental validation data
 - **e-Drug3D** curators (D. Douguet) for approved drug library
-- **Royal Society Open Science** for open peer review process
 
 ---
 
