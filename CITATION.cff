@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "If you use this dataset/code, please cite it using this metadata."
 type: dataset
 title: "GLP-1R ensemble repurposing screen (data and scripts)"
-version: 1.0.5
+version: 1.0.6
 date-released: 2026-02-17
 authors:
   - family-names: Olaniru
