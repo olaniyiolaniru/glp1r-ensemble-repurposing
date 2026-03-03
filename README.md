@@ -183,7 +183,7 @@ pymol supplementary_pocket_alignment.pml # Pocket conservation
 ```bibtex
 @article{Olaniru2026GLP1R,
   title={Computational Repurposing Screen Identifies Oral Drug Candidates for GLP-1 Receptor Modulation},
-  author={Olaniru, Olaniyi Victor and Jesulude, Peace Dorcas and Ajiboye, Clement Odunayo},
+  author={Olaniru, Olaniyi Victor and Jesulude, Peace Dorcas and Ajiboye, Clement Odunayo and Bodun, Damilola},
   journal={},
   year={2026},
   note={Manuscript in review}
@@ -212,7 +212,7 @@ Dataset (Supplementary_Data.zip): 10.5281/zenodo.18682381
 ### GitHub Repository
 All analysis code is available at:
 **URL: Repo: https://github.com/olaniyiolaniru/glp1r-ensemble-repurposing
-Release (v1.0.5): https://github.com/olaniyiolaniru/glp1r-ensemble-repurposing/releases/tag/v1.0.5
+Release (v1.0.6): https://github.com/olaniyiolaniru/glp1r-ensemble-repurposing/releases/tag/v1.0.6
 Supplementary ZIP (direct download): https://github.com/olaniyiolaniru/glp1r-ensemble-repurposing/releases/download/v1.0.0/Supplementary_Data.zip
 **
 
@@ -239,7 +239,7 @@ Supplementary ZIP (direct download): https://github.com/olaniyiolaniru/glp1r-ens
 
 ## 👥 Authors
 
-**Olaniyi Victor Olaniru** (Corresponding Author)
+**Olaniyi Victor Olaniru**
 - Affiliation: Lead City University, Ibadan, Nigeria
 - Email: olaniyiolaniru@gmail.com
 - ORCID: https://orcid.org/0009-0008-9853-6335
@@ -253,6 +253,11 @@ Supplementary ZIP (direct download): https://github.com/olaniyiolaniru/glp1r-ens
 - Affiliation: University of Ibadan, Ibadan, Nigeria
 - Email: co.ajiboye@ui.edu.ng
 - ORCID: https://orcid.org/0000-0002-6205-8828
+
+**Damilola Bodun** (Corresponding Author)
+- Affiliation: Chemoinformatics Academy
+- Email: dbodun56@gmail.com
+- ORCID: https://orcid.org/0000-0003-3440-8015
 
 ---
 
@@ -269,7 +274,7 @@ Supplementary ZIP (direct download): https://github.com/olaniyiolaniru/glp1r-ens
 ## 📞 Contact
 
 For questions about the computational methods, code, or data:
-- **Email:** olaniyiolaniru@gmail.com
+- **Email:** dbodun56@gmail.com
 - **Issues:** Submit via GitHub Issues (once repository is public)
 
 ---
